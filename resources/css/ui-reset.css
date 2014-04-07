@@ -1,0 +1,125 @@
+/*body, html{
+	font-family: Calibri,arial,verdana,sans-serif !important;
+}*/
+.x-tab-top-active {
+    background: #918679 !important;
+	color: #fff;
+}
+
+.x-tab-default-top {
+    background-color: #A59A8B;
+    background-image: none;
+    border-radius: 0;
+    border-style: none;
+    border-width: 0;
+    padding: 3px 3px 0;
+	border-bottom: 0px !important;
+	box-shadow: none !important;
+	
+}
+#homePanleMain .x-tab-top-active {background: #C4C4C4 !important;}
+#homePanleMain .x-tab-default-top {background: #898989;}
+
+#homePanleMain .x-tab-bar{
+	background: #797979;
+}
+
+.x-tab-bar{
+	background: #A59A8B;
+}
+.x-tab-active  button, .x-tab button{color: #fff; font-size: 13px;}
+.x-toolbar-default {
+    background: #EDECEB;
+    border-color: none;
+	border: 0px;
+}
+.x-toolbar .x-toolbar-separator-horizontal {
+    border: 0px;
+	font-weight: bold;
+	}
+#searchPanel .x-panel-header-default {
+    background: #2BBAF2;
+    border: none;
+    padding-top:5px;
+}
+.x-panel-header-text-default{font-size: 14px; font-weight: bold; color: #fff; }
+.x-panel-body-default{border: 0px;}
+
+#searchFormPanel .x-panel-body-default{background: #08A4E1;}
+
+#searchPanel-body  .x-box-inner{background: #08A4E1;}
+.x-check-group-alt{
+	background: none ;
+    border:  0px;
+}
+#searchFormPanel input, #myform .x-panel-body-default input[type="text"]{border: 0px; padding: 2px 5px;} 
+.x-form-item, .x-box-item{color: #fff; font-size: 12px;}
+.x-panel .x-panel-header-default-framed-top{border: 0px;}
+.x-panel-header-default-framed-top{box-shadow: 0px;	}
+.x-panel-header-default-framed{background: none; border-width: 0px !important;}
+.x-panel-default-framed{background: #DEDBD7; border: 0px;}
+.x-column-header{background: #7F7F7F; border: 0px;}
+.x-panel .x-grid-body{border: 0px;}
+.x-grid-header-ct{ border-width: 0px !important;}
+.x-column-header-over{
+    background: none;
+   border: 0px;
+}
+/*.x-column-header-trigger{background: #7F7F7F;}*/
+.x-tab-bar-strip-default, .x-tab-bar-strip-default-plain{background: none; border: 0px;}
+.x-panel-header-default{background: #fff; border-top: solid 1px #DEDEDE; border-bottom: solid 1px #DEDEDE}
+#treeDetailPanel  + div div div span.x-panel-header-text-default{color: #009CDE;}
+#treeDetailPanel label{color: #000;}
+#myform-body label{color: #000;}
+.x-tree-icon-parent{background: none; width: 0px;}
+.x-grid-table{ font-size: 14px;}
+.x-grid-row , .x-grid-cell{ font: 13px/15px Calibri,arial,verdana,sans-serif; font-weight: bold;}
+.x-panel-body-default-framed{background: none;}
+#myform .x-panel-body-default{background: none;}
+.shadow{background: none !important;}
+
+.x-tab-bar .x-tab-bar-body .x-box-inner .x-tab {
+    border-left: 1px solid #918679;
+    height: 31px !important;
+}
+.x-tab-default-top button, .x-tab-default-top .x-tab-inner {
+    height: 15px !important;
+};
+}t: 15px !important;
+}
+
+.x-tab-bar .x-tab-bar-body .x-box-inner .x-tab {
+    border-left: 1px solid #918679;
+    height: 31px !important;
+}
+.x-tab-default-top button, .x-tab-default-top .x-tab-inner {
+    height: 15px !important;
+}
+.x-maintab {
+	background-color:#A59A8B;
+	cursor: pointer;
+    float: left;
+    height: 30px;
+    margin: 0;
+    padding:0px;
+    text-align: center;
+    width: 165px;
+	color:#fff;
+	font:15px/29px "GEInspiraPitch",Arial,Helvetica;
+	border-right:1px solid #7A7A7A;
+}
+.x-maintab-selected {
+	background-color: #918679;
+	margin:0;
+	padding:0;
+	}
+.x-maintab-over {
+	background-color: #918679;
+}
+
+.grid_header .x-grid-header-ct.x-docked.x-grid-header-ct-default.x-docked-top.x-grid-header-ct-docked-top.x-grid-header-ct-default-docked-top.x-box-layout-ct{
+	display: none;
+}
+.x-grid-empty{
+	padding:3px 5px;
+}
